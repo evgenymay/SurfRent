@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "rustore": {
+    "versionCode": 10,
+    "versionName": "1.1.1",
+    "force": false,
+    "url": "https://www.rustore.ru/catalog/app/ru.krasnozoloto.itxp.windsurfing",
+    "whatsNew": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "googleplay": {
+    "versionCode": 0,
+    "versionName": "",
+    "force": false,
+    "url": "https://play.google.com/store/apps/details?id=ru.krasnozoloto.itxp.windsurfing",
+    "whatsNew": {
+      "ru": "",
+      "en": ""
+    }
+  }
+}
